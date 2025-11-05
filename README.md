@@ -201,7 +201,7 @@ Páginas individuais exportadas com:
 ## 📞 Suporte
 
 Para questões sobre o projeto:
-- Contato: Pedro - Alaska Digital
+- Contato: João Pedro Mandacari - Alaska Digital
 - Workspace: Alaska Central
 - Uso: Interno
 
