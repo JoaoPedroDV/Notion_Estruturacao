@@ -1,0 +1,47 @@
+# Dependências Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Variáveis de ambiente e configurações sensíveis
+.env
+.env.local
+.env.*.local
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de backup temporários
+*.tmp
+*.bak
+*.backup
+
+# Saídas de análise (JSONs grandes gerados pelos scripts)
+*.json
+!package.json
+!package-lock.json
+
+# Arquivos do Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*

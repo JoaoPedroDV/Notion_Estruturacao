@@ -1,0 +1,1 @@
+# Scripts 222 — Áudio, Vídeo e Mensagem

@@ -1,0 +1,11 @@
+# RegistroBR
+
+Criado em: September 30, 2025 10:31 AM
+Capa: ../../Projeto%20Andr%C3%A9/rgbr.png
+
+# Login:
+
+```
+Usuário: CIPA123
+Senha: blablabla123
+```

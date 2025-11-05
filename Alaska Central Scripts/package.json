@@ -1,0 +1,20 @@
+{
+  "name": "alaska-central-scripts",
+  "version": "1.0.0",
+  "description": "Scripts para gerenciar e otimizar o Notion Alaska Central",
+  "main": "index.js",
+  "scripts": {
+    "audit": "node src/audit-workspace.js",
+    "test-connection": "node src/test-connection.js",
+    "list-databases": "node src/list-databases.js",
+    "list-users": "node src/list-users.js",
+    "analyze-tasks": "node src/analyze-tasks.js"
+  },
+  "keywords": ["notion", "alaska", "automation"],
+  "author": "Pedro - Alaska Digital",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5"
+  }
+}
